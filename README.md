@@ -16,10 +16,6 @@ Tenho interesse em desenvolvimento de software, backend, desenvolvimento web e f
 
 Atualmente estou estudando e praticando desenvolvimento com C#, ASP.NET Core, React, JavaScript, SQL, PostgreSQL e conceitos de Engenharia de Software.
 
-```bash
-matheus@github:~$ echo "M47H3U5 P4570R3"
-```
-
 ---
 
 ```bash
@@ -110,21 +106,11 @@ Meu foco atual é construir uma base sólida em programação, backend, banco de
 ---
 
 ```bash
-matheus@github:~$ github_stats
-```
-
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspm05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspm05&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-```bash
 matheus@github:~$ contact
 ```
 
 ```text
 LinkedIn:  linkedin.com/in/matheus-pastore
 GitHub:    github.com/matheuspm05
-Email:     matheus.pastore2005@gmail.com
+Email:     matheus.clans2005@gmail.com
 ```
