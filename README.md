@@ -1,80 +1,130 @@
-# Olá, eu sou o Matheus Pastore 👋
+```text
+ __  __       _   _                         ____           _                 
+|  \/  | __ _| |_| |__   ___ _   _ ___    |  _ \ __ _ ___| |_ ___  _ __ ___ 
+| |\/| |/ _` | __| '_ \ / _ \ | | / __|   | |_) / _` / __| __/ _ \| '__/ _ \
+| |  | | (_| | |_| | | |  __/ |_| \__ \   |  __/ (_| \__ \ || (_) | | |  __/
+|_|  |_|\__,_|\__|_| |_|\___|\__,_|___/   |_|   \__,_|___/\__\___/|_|  \___|
+```
 
-Sou estudante de Ciência da Computação na Universidade Vila Velha (UVV), atualmente no 5º período, com foco em desenvolvimento de software, backend e desenvolvimento web.
+```bash
+matheus@github:~$ whoami
+```
 
-Tenho estudado e desenvolvido projetos utilizando **C#**, **ASP.NET Core**, **React**, **JavaScript**, **SQL**, **PostgreSQL** e **Entity Framework Core**, aplicando conceitos de Programação Orientada a Objetos, APIs REST, autenticação, banco de dados e organização em camadas.
+Estudante de Ciência da Computação na Universidade Vila Velha (UVV), atualmente no 5º período.
 
-Atualmente estou desenvolvendo o **AgroControl**, uma aplicação web full stack para gestão agropecuária.
+Tenho interesse em desenvolvimento de software, backend, desenvolvimento web e fundamentos da computação. Gosto de entender como as coisas funcionam por baixo: lógica, estruturas de dados, banco de dados, sistemas operacionais, APIs e arquitetura de aplicações.
 
----
+Atualmente estou estudando e praticando desenvolvimento com C#, ASP.NET Core, React, JavaScript, SQL, PostgreSQL e conceitos de Engenharia de Software.
 
-## 🚀 Tecnologias e ferramentas
-
-<div>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-## 📌 Projetos em destaque
-
-### AgroControl
-
-Aplicação web full stack voltada para gestão agropecuária.
-
-**Tecnologias:** C#, ASP.NET Core, React, JavaScript, PostgreSQL, Entity Framework Core, JWT, APIs REST, Git e GitHub.
-
-- API REST com ASP.NET Core
-- Autenticação com JWT e refresh token
-- Banco de dados PostgreSQL com Entity Framework Core
-- Frontend em React consumindo a API
-- Deploy do frontend na Vercel
-
-🔗 Projeto online: https://agro-control-tau.vercel.app/  
-📁 Repositório: https://github.com/matheuspm05/AgroControl
+```bash
+matheus@github:~$ echo "M47H3U5 P4570R3"
+```
 
 ---
 
-### Sistema Bancário Desktop
+```bash
+matheus@github:~$ focus
+```
 
-Aplicação desktop em C# com WPF para simulação de um sistema bancário, com cadastro de clientes, contas e movimentações financeiras.
-
-**Tecnologias:** C#, WPF, Entity Framework e SQL Server.
-
-📁 Repositório: https://github.com/matheuspm05/Trabalho-UVVFintech
-
----
-
-### Plataforma Web Fortes Engenharia
-
-Projeto acadêmico para gerenciamento de ações sociais, com criação de telas, fluxos de usuário e prototipação.
-
-**Tecnologias:** HTML, CSS, JavaScript, Figma, Git e GitHub.
-
-📁 Repositório: https://github.com/matheuspm05/siteFortes
+```text
+> Desenvolvimento de Software
+> Backend
+> APIs REST
+> Banco de Dados
+> Programação Orientada a Objetos
+> Estruturas de Dados
+> Sistemas Operacionais
+> Engenharia de Software
+> Desenvolvimento Web
+```
 
 ---
 
-## 📚 Atualmente estudando
+```bash
+matheus@github:~$ stack --languages
+```
 
-- Desenvolvimento backend com ASP.NET Core
-- APIs REST
-- Autenticação com JWT
-- React
-- Banco de dados PostgreSQL
-- Boas práticas de organização de código
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+```bash
+matheus@github:~$ stack --tools
+```
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📫 Contato
+```bash
+matheus@github:~$ currently_learning
+```
 
-- LinkedIn: https://www.linkedin.com/in/matheus-pastore
-- GitHub: https://github.com/matheuspm05
-- Email: matheus.pastore2005@gmail.com
+```text
+ASP.NET Core
+React
+Autenticação com JWT
+Entity Framework Core
+PostgreSQL
+Organização de código em camadas
+Boas práticas de desenvolvimento backend
+Fundamentos de sistemas operacionais e redes
+```
+
+---
+
+```bash
+matheus@github:~$ cat computer_science.txt
+```
+
+Áreas da computação que mais me interessam:
+
+```text
+[01] Como programas são estruturados
+[02] Como dados são armazenados e consultados
+[03] Como sistemas se comunicam através de APIs
+[04] Como sistemas operacionais gerenciam processos, memória e arquivos
+[05] Como escrever código mais organizado, legível e reutilizável
+[06] Como transformar uma ideia em uma aplicação funcional
+```
+
+---
+
+```bash
+matheus@github:~$ cat mindset.txt
+```
+
+Busco evoluir como desenvolvedor entendendo não apenas como usar ferramentas, mas também os conceitos por trás delas.
+
+Meu foco atual é construir uma base sólida em programação, backend, banco de dados e desenvolvimento web, aplicando esses conhecimentos em projetos práticos e acadêmicos.
+
+---
+
+```bash
+matheus@github:~$ github_stats
+```
+
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspm05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspm05&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+```bash
+matheus@github:~$ contact
+```
+
+```text
+LinkedIn:  linkedin.com/in/matheus-pastore
+GitHub:    github.com/matheuspm05
+Email:     matheus.pastore2005@gmail.com
+```
