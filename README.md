@@ -62,40 +62,6 @@ matheus@github:~$ stack --tools
 ---
 
 ```bash
-matheus@github:~$ currently_learning
-```
-
-```text
-ASP.NET Core
-React
-Autenticação com JWT
-Entity Framework Core
-PostgreSQL
-Organização de código em camadas
-Boas práticas de desenvolvimento backend
-Fundamentos de sistemas operacionais e redes
-```
-
----
-
-```bash
-matheus@github:~$ cat computer_science.txt
-```
-
-Áreas da computação que mais me interessam:
-
-```text
-[01] Como programas são estruturados
-[02] Como dados são armazenados e consultados
-[03] Como sistemas se comunicam através de APIs
-[04] Como sistemas operacionais gerenciam processos, memória e arquivos
-[05] Como escrever código mais organizado, legível e reutilizável
-[06] Como transformar uma ideia em uma aplicação funcional
-```
-
----
-
-```bash
 matheus@github:~$ cat mindset.txt
 ```
 
